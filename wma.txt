@@ -1,1 +1,12 @@
-nir
+nirman -bug-123
+hi
+hello
+
+
+
+welcome to nirmaan org -bug-130
+<<<<<<< Updated upstream
+
+renuka ravi
+=======
+>>>>>>> Stashed changes
